@@ -1,0 +1,211 @@
+<mxfile host="app.diagrams.net" modified="2022-06-20T19:17:16.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="2TBn9Uwrz4xUZkNw0Hpp" version="20.0.1" type="github">
+  <diagram id="g0Lj9xZ-ACkH46LTW_e9" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uvQEchAud2IYNQgk7g-G-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="320" as="sourcePoint" />
+            <mxPoint x="230" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-2" value="Work Package Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-3" value="Current Reporting period" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="340" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-6" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="330" as="sourcePoint" />
+            <mxPoint x="240" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="320" as="sourcePoint" />
+            <mxPoint x="260" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-8" value="Work Package End" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;startArrow=none;" parent="1" source="uvQEchAud2IYNQgk7g-G-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="270" as="sourcePoint" />
+            <mxPoint x="540" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;startArrow=none;" parent="1" source="uvQEchAud2IYNQgk7g-G-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="230" as="sourcePoint" />
+            <mxPoint x="310" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;startArrow=none;" parent="1" source="uvQEchAud2IYNQgk7g-G-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="190" as="sourcePoint" />
+            <mxPoint x="460" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;fillColor=#FF8000;startArrow=none;" parent="1" source="uvQEchAud2IYNQgk7g-G-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="150" as="sourcePoint" />
+            <mxPoint x="220" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-13" value="Percent Complete at this point in time is:&lt;br&gt;&lt;font color=&quot;#ff8000&quot;&gt;35%&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="185" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-16" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="330" as="sourcePoint" />
+            <mxPoint x="60" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-17" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="330" as="sourcePoint" />
+            <mxPoint x="570" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-19" value="If the EVT is either Percent Complete or Weighted Milestone with Percent Complete, the Earned Value is calculated the same way. The total value of &lt;b&gt;ALL &lt;/b&gt;budget resource assignments, regardless whether they are complete, in progress, or not yet started, is used to calculate the Budget at Complete (BAC).&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="50" y="390" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-21" value="Budget RA&lt;br&gt;$50k" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="120" y="220" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-22" value="" style="shape=flexArrow;endArrow=none;html=1;rounded=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="uvQEchAud2IYNQgk7g-G-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="230" as="sourcePoint" />
+            <mxPoint x="310" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-20" value="Budget RA&lt;br&gt;$10k" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="80" y="140" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-24" value="" style="shape=flexArrow;endArrow=none;html=1;rounded=0;strokeWidth=1;fillColor=#FF8000;" parent="1" target="uvQEchAud2IYNQgk7g-G-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="150" as="sourcePoint" />
+            <mxPoint x="220" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-25" value="Budget RA&lt;br&gt;$100k" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="260" y="260" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-26" value="" style="shape=flexArrow;endArrow=none;html=1;rounded=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="uvQEchAud2IYNQgk7g-G-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="270" as="sourcePoint" />
+            <mxPoint x="540" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-27" value="Budget RA&lt;br&gt;$35K" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="340" y="180" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-28" value="" style="shape=flexArrow;endArrow=none;html=1;rounded=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" target="uvQEchAud2IYNQgk7g-G-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="190" as="sourcePoint" />
+            <mxPoint x="460" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-29" value="&lt;font color=&quot;#ff8000&quot;&gt;Complete&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="455" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-30" value="In Progress" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4D9900;" parent="1" vertex="1">
+          <mxGeometry x="455" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-32" value="Not Started" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#66B2FF;" parent="1" vertex="1">
+          <mxGeometry x="450" y="110" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;fillColor=#FF8000;startArrow=none;" parent="1" source="uvQEchAud2IYNQgk7g-G-38" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="500" as="sourcePoint" />
+            <mxPoint x="220" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-38" value="Budget RA&lt;br&gt;$10k" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="90" y="490" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-39" value="" style="shape=flexArrow;endArrow=none;html=1;rounded=0;strokeWidth=1;fillColor=#FF8000;" parent="1" target="uvQEchAud2IYNQgk7g-G-38" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="500" as="sourcePoint" />
+            <mxPoint x="220" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;startArrow=none;" parent="1" source="uvQEchAud2IYNQgk7g-G-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="530" as="sourcePoint" />
+            <mxPoint x="280" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-41" value="Budget RA&lt;br&gt;$50k" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="90" y="520" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-42" value="" style="shape=flexArrow;endArrow=none;html=1;rounded=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="uvQEchAud2IYNQgk7g-G-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="530" as="sourcePoint" />
+            <mxPoint x="280" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;startArrow=none;" parent="1" source="uvQEchAud2IYNQgk7g-G-44" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="560" as="sourcePoint" />
+            <mxPoint x="430" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-44" value="Budget RA&lt;br&gt;$100k" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="92.5" y="550" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-45" value="" style="shape=flexArrow;endArrow=none;html=1;rounded=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="uvQEchAud2IYNQgk7g-G-44" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="560" as="sourcePoint" />
+            <mxPoint x="430" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;startArrow=none;" parent="1" source="uvQEchAud2IYNQgk7g-G-47" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="590" as="sourcePoint" />
+            <mxPoint x="220" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-47" value="Budget RA&lt;br&gt;$35K" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="100" y="580" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-48" value="" style="shape=flexArrow;endArrow=none;html=1;rounded=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" target="uvQEchAud2IYNQgk7g-G-47" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="590" as="sourcePoint" />
+            <mxPoint x="220" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-55" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontColor=#66B2FF;fillColor=none;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="425" y="480" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;strokeWidth=1;fillColor=#FF8000;" parent="1" source="uvQEchAud2IYNQgk7g-G-56" target="uvQEchAud2IYNQgk7g-G-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-56" value="&lt;font color=&quot;#000000&quot;&gt;Multiply the sum of the Budget RA totals by the Percent Complete.&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff8000&quot;&gt;35%&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#66B2FF;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-59" value="&lt;font color=&quot;#000000&quot;&gt;BAC = $195k&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="475" y="525" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;strokeWidth=1;fillColor=#FF8000;" parent="1" source="uvQEchAud2IYNQgk7g-G-60" target="uvQEchAud2IYNQgk7g-G-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-60" value="195000*.35" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="715" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;strokeWidth=1;fillColor=#FF8000;" parent="1" source="uvQEchAud2IYNQgk7g-G-61" target="uvQEchAud2IYNQgk7g-G-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-61" value="$68,260 Earned Value for this Work Package at this point in time." style="rect;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="550" y="610" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uvQEchAud2IYNQgk7g-G-63" value="This is a &lt;b&gt;CUMULATIVE&lt;/b&gt;&amp;nbsp;value. If you want to get current period EV, you need subtract this total from last period&#39;s total" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="685" y="610" width="150" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
