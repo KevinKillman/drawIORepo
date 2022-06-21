@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T18:15:19.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="KlBPiW52hNMLZKNAFzeU" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T18:16:29.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SfU0rmudKAQz6EIg_Ks0" version="20.0.1" type="github">
   <diagram id="g0Lj9xZ-ACkH46LTW_e9" name="Page-1">
     <mxGraphModel dx="1367" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -548,10 +548,10 @@
           <mxGeometry x="700" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLSWHRCynVL5PZPzz5V7-96" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="320" y="850" width="50" height="620" as="geometry" />
+          <mxGeometry x="390" y="950" width="50" height="430" as="geometry" />
         </mxCell>
         <mxCell id="FLSWHRCynVL5PZPzz5V7-97" value="Current Period Calculation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="221.25" y="1190" width="177.5" height="50" as="geometry" />
+          <mxGeometry x="332.5" y="1190" width="177.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FLSWHRCynVL5PZPzz5V7-98" value="5% of the BAC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="272.5" y="1150" width="60" height="30" as="geometry" />
