@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T18:08:57.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="r2X_wjptpUIP2A2qVJrV" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T18:15:04.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3oFSSlyYv-XtiPIPGNNi" version="20.0.1" type="github">
   <diagram id="g0Lj9xZ-ACkH46LTW_e9" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1367" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,13 +178,13 @@
             <mxPoint x="220" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uvQEchAud2IYNQgk7g-G-55" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontColor=#66B2FF;fillColor=none;rotation=-180;" parent="1" vertex="1">
+        <mxCell id="uvQEchAud2IYNQgk7g-G-55" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontColor=#66B2FF;fillColor=none;rotation=-180;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="425" y="480" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uvQEchAud2IYNQgk7g-G-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;strokeWidth=1;fillColor=#FF8000;" parent="1" source="uvQEchAud2IYNQgk7g-G-56" target="uvQEchAud2IYNQgk7g-G-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uvQEchAud2IYNQgk7g-G-56" value="&lt;font color=&quot;#000000&quot;&gt;Multiply the sum of the Budget RA totals by the Percent Complete.&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff8000&quot;&gt;35%&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#66B2FF;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="uvQEchAud2IYNQgk7g-G-56" value="&lt;font color=&quot;#000000&quot;&gt;Multiply the sum of the Budget RA totals by the Percent Complete.&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff8000&quot;&gt;35%&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#66B2FF;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="560" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uvQEchAud2IYNQgk7g-G-59" value="&lt;font color=&quot;#000000&quot;&gt;BAC = $195k&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF8000;" parent="1" vertex="1">
@@ -193,7 +193,7 @@
         <mxCell id="uvQEchAud2IYNQgk7g-G-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;strokeWidth=1;fillColor=#FF8000;" parent="1" source="uvQEchAud2IYNQgk7g-G-60" target="uvQEchAud2IYNQgk7g-G-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uvQEchAud2IYNQgk7g-G-60" value="195000*.35" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="uvQEchAud2IYNQgk7g-G-60" value="195000*.35" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="715" y="500" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uvQEchAud2IYNQgk7g-G-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;strokeWidth=1;fillColor=#FF8000;" parent="1" source="uvQEchAud2IYNQgk7g-G-61" target="uvQEchAud2IYNQgk7g-G-63" edge="1">
@@ -205,7 +205,7 @@
         <mxCell id="FLSWHRCynVL5PZPzz5V7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#FFFFFF;" edge="1" parent="1" source="uvQEchAud2IYNQgk7g-G-63" target="FLSWHRCynVL5PZPzz5V7-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uvQEchAud2IYNQgk7g-G-63" value="This is a &lt;b&gt;CUMULATIVE&lt;/b&gt;&amp;nbsp;value. If you want to get current period EV, you need subtract this total from last period&#39;s total" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="uvQEchAud2IYNQgk7g-G-63" value="This is a &lt;b&gt;CUMULATIVE&lt;/b&gt;&amp;nbsp;value. If you want to get current period EV, you need subtract this total from last period&#39;s total" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="685" y="610" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FLSWHRCynVL5PZPzz5V7-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;fillColor=#FFFFFF;startArrow=none;" edge="1" parent="1" source="FLSWHRCynVL5PZPzz5V7-2">
@@ -292,7 +292,7 @@
         <mxCell id="FLSWHRCynVL5PZPzz5V7-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fillColor=#FFFFFF;" edge="1" parent="1" source="FLSWHRCynVL5PZPzz5V7-22" target="FLSWHRCynVL5PZPzz5V7-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FLSWHRCynVL5PZPzz5V7-22" value="An Earned Value Resource Assignment is created for every Budget Resource Assignment, irrespective of Resource Assignment Start Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FLSWHRCynVL5PZPzz5V7-22" value="An Earned Value Resource Assignment is created for every Budget Resource Assignment, irrespective of Resource Assignment Start Date" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="647.5" width="155" height="95" as="geometry" />
         </mxCell>
         <mxCell id="FLSWHRCynVL5PZPzz5V7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#000000;fillColor=#FFFFFF;" edge="1" parent="1" source="FLSWHRCynVL5PZPzz5V7-23">
@@ -307,7 +307,7 @@
         <mxCell id="FLSWHRCynVL5PZPzz5V7-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#FFFFFF;" edge="1" parent="1" source="FLSWHRCynVL5PZPzz5V7-23" target="FLSWHRCynVL5PZPzz5V7-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FLSWHRCynVL5PZPzz5V7-23" value="If we earned 5% in the last reporting period, our current period earned is $9,750" style="whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;rounded=1;" vertex="1" parent="1">
+        <mxCell id="FLSWHRCynVL5PZPzz5V7-23" value="If we earned 5% in the last reporting period, our current period earned is $9,750" style="whiteSpace=wrap;html=1;fillColor=default;fontColor=#000000;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="725" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="FLSWHRCynVL5PZPzz5V7-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=-0.008;exitY=0.578;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FLSWHRCynVL5PZPzz5V7-29" target="FLSWHRCynVL5PZPzz5V7-66">
@@ -544,17 +544,17 @@
             <mxPoint x="425" y="975" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FLSWHRCynVL5PZPzz5V7-94" value="Percent Complete increased from 30% last month to 35% this month" style="whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;rounded=1;" vertex="1" parent="1">
+        <mxCell id="FLSWHRCynVL5PZPzz5V7-94" value="Percent Complete increased from 30% last month to 35% this month" style="whiteSpace=wrap;html=1;fillColor=default;fontColor=#000000;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLSWHRCynVL5PZPzz5V7-96" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="320" y="850" width="50" height="620" as="geometry" />
         </mxCell>
         <mxCell id="FLSWHRCynVL5PZPzz5V7-97" value="Current Period Calculation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="221.25" y="1200" width="177.5" height="50" as="geometry" />
+          <mxGeometry x="221.25" y="1190" width="177.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FLSWHRCynVL5PZPzz5V7-98" value="5% of the BAC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="272.5" y="1230" width="60" height="30" as="geometry" />
+          <mxGeometry x="272.5" y="1150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
