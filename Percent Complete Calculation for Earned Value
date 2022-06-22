@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T23:10:29.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="i9KSAHD0_H4jA6QkrPu_" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T23:14:27.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kPg9fZmNcyM81LQz7d-s" version="20.0.3" type="github">
   <diagram id="g0Lj9xZ-ACkH46LTW_e9" name="Page-1">
     <mxGraphModel dx="2881" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -566,7 +566,7 @@
         <mxCell id="WAiMNM_uh6SKkXCrGVjt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" edge="1" parent="1" source="WAiMNM_uh6SKkXCrGVjt-3" target="WAiMNM_uh6SKkXCrGVjt-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s-rjPpjIJ1GTF2_4FXJo-2" value="This allocation of Earned Value rubs me the wrong way.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;If Earned Value is &quot;truly&quot; calculated at the Resource Assignment level, then the start and finish date of the RA should respected and percent completes should be assigned at the RA level. This is unfeasible.&amp;nbsp;&lt;br&gt;&lt;br&gt;Instead, Earned Value is calculated, not at but, for the Work Package level. The Dash360 code actually calculates Earned Value on a Resource Assignment level basis, but is irrespective of properties of the Resource Assignment, namely start and end dates.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;Doing Earned Value this way will cause issues with some of the reporting charts. If you display Earned Value at the Resource Level, you will get values for resources that should not be started yet.&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="s-rjPpjIJ1GTF2_4FXJo-2" value="This allocation of Earned Value rubs me the wrong way.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;If Earned Value is &quot;truly&quot; calculated at the Resource Assignment level, then the start and finish date of the RA should respected and percent completes should be assigned at the RA level. This is unfeasible.&amp;nbsp;&lt;br&gt;&lt;br&gt;Instead, Earned Value is calculated, not at but, for the Work Package level. The Dash360 code actually calculates Earned Value on a Resource Assignment level basis, but is irrespective of properties of the Resource Assignment, namely start and end dates.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;Doing Earned Value this way will cause issues with some of the reporting charts. If you display Earned Value at the Resource Level, you will get values for resources that should not be started yet.&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;gradientColor=none;strokeColor=#6600CC;" parent="1" vertex="1">
           <mxGeometry x="-300" y="830" width="260" height="340" as="geometry" />
         </mxCell>
         <mxCell id="s-rjPpjIJ1GTF2_4FXJo-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -711,13 +711,9 @@
         <mxCell id="s-rjPpjIJ1GTF2_4FXJo-38" value="CTD Budget &lt;br&gt;$35k" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-110" y="2033.75" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s-rjPpjIJ1GTF2_4FXJo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="s-rjPpjIJ1GTF2_4FXJo-39" edge="1">
+        <mxCell id="s-rjPpjIJ1GTF2_4FXJo-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="s-rjPpjIJ1GTF2_4FXJo-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-10" y="1753.75" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-80" y="1753.75" />
-              <mxPoint x="-80" y="1753.75" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="s-rjPpjIJ1GTF2_4FXJo-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=default;" parent="1" vertex="1">
