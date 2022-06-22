@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T23:14:27.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kPg9fZmNcyM81LQz7d-s" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T23:18:40.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="eDQphLFsDEgY9JDjWwzX" version="20.0.3" type="github">
   <diagram id="g0Lj9xZ-ACkH46LTW_e9" name="Page-1">
     <mxGraphModel dx="2881" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -775,8 +775,13 @@
         <mxCell id="s-rjPpjIJ1GTF2_4FXJo-53" value="15%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="162.5" y="2083.75" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WAiMNM_uh6SKkXCrGVjt-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s-rjPpjIJ1GTF2_4FXJo-65" target="s-rjPpjIJ1GTF2_4FXJo-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1950" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s-rjPpjIJ1GTF2_4FXJo-65" value="If the Resource Assignment is 100%, ie complete, allocate the full BAC as earned and subtract the RA BAC value from the overall earned of the Work Package" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1893.75" width="230" height="60" as="geometry" />
+          <mxGeometry x="228.75" y="1893.75" width="242.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s-rjPpjIJ1GTF2_4FXJo-66" value="Percent Complete at this point in time is:&lt;br&gt;&lt;font color=&quot;#ff8000&quot;&gt;35%&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5" y="1503.75" width="120" height="60" as="geometry" />
@@ -987,6 +992,9 @@
             <mxPoint x="-170" y="1170" as="sourcePoint" />
             <mxPoint x="300" y="1360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WAiMNM_uh6SKkXCrGVjt-8" value="Use activities linked to resource to determine whether or not to push the RA forward/backward. If no schedule link, default to budgeted start and finish date." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1353.75" width="170" height="86.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
